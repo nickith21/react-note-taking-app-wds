@@ -1,4 +1,4 @@
-# React Note Taking App
+## React Note Taking App
 
 # Description of the project:
 
